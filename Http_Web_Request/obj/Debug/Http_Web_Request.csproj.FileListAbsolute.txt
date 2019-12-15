@@ -1,0 +1,14 @@
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\bin\Debug\Http_Web_Request.exe.config
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\bin\Debug\Http_Web_Request.exe
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\bin\Debug\Http_Web_Request.pdb
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\bin\Debug\HtmlAgilityPack.dll
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\bin\Debug\HtmlAgilityPack.xml
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\obj\Debug\Http_Web_Request.csprojAssemblyReference.cache
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\obj\Debug\Http_Web_Request.Form1.resources
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\obj\Debug\Http_Web_Request.Properties.Resources.resources
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\obj\Debug\Http_Web_Request.csproj.GenerateResource.cache
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\obj\Debug\Http_Web_Request.csproj.CoreCompileInputs.cache
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\obj\Debug\Http_Web_Request.csproj.CopyComplete
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\obj\Debug\Http_Web_Request.exe
+C:\Users\MugeAsilturk\source\repos\Http_Web_Request\Http_Web_Request\obj\Debug\Http_Web_Request.pdb
